@@ -1,0 +1,1 @@
+C:\Users\User\Source\Repos\WeatherAppDemo5Day\WeatherAppDemo5Day\WeatherAppDemo5Day.csproj;x86
